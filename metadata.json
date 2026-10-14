@@ -1,0 +1,6 @@
+{
+  "name": "ZeroSoft - نظام إدارة الساعات الإضافية",
+  "description": "نظام ZeroSoft الذكي والشامل لتسجيل وحساب الساعات الإضافية للموظفين (ساعة ونصف) وإدارة الرواتب والنسخ الاحتياطي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
